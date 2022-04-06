@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HE4Nf2wxv5DS3H3J4Qlf2UYaX4Am5n2TCd7k9btdwGupqu5rENSi6hEmhzCdj6Dg1tl/EHjo8CNhcyO3o3K1+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CShapIntermediate\\AppendAndDelete\\AppendAndDelete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

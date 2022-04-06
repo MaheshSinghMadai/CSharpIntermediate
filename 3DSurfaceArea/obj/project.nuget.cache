@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9gqETsniicxqylUyt6/pBgwETNhLzV44LO5RMFdbGZ5YWsYJflV+BR2/NNjJhmff5CjqTaJUP9hmYK7SB3eHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CShapIntermediate\\3DSurfaceArea\\3DSurfaceArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

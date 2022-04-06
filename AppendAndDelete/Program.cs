@@ -7,7 +7,6 @@ namespace AppendAndDelete
 {
     class Result
     {
-
         /*
          * Complete the 'appendAndDelete' function below.
          *
@@ -31,7 +30,7 @@ namespace AppendAndDelete
             {
                 result = "No";
             }
-            else if (sum >= k)
+            else if (sum == k)
             {
                 result = "Yes";
             }

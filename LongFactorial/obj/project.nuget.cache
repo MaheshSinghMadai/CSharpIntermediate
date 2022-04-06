@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aJWEyJQLOeQavkvEt5nByHMn6Yhsd7UWkJbCLf6IqikTYjtI13lkXfNoQ3VcIvXAT8N7ZptjKnngDuL+ZIi8dw==",
+  "dgSpecHash": "9DywMYVGfSiwwsN68uy8iuc6mRWxvYWA9hcImqYfEus30BHnyo+1FTQlvS3osJizJqcSyu+8we5+30jIvAZSVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CShapIntermediate\\CShapIntermediate\\LongFactorial.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Corion\\source\\repos\\MaheshNBIT\\CShapIntermediate\\LongFactorial\\LongFactorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corion\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShapIntermediate", "CShapIntermediate\CShapIntermediate.csproj", "{81FBF74C-626D-4550-8B80-7424D316B4B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongFactorial", "LongFactorial\LongFactorial.csproj", "{479E7C57-1DF3-4DAE-BB0F-781EA4611E36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81FBF74C-626D-4550-8B80-7424D316B4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81FBF74C-626D-4550-8B80-7424D316B4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81FBF74C-626D-4550-8B80-7424D316B4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81FBF74C-626D-4550-8B80-7424D316B4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479E7C57-1DF3-4DAE-BB0F-781EA4611E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479E7C57-1DF3-4DAE-BB0F-781EA4611E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479E7C57-1DF3-4DAE-BB0F-781EA4611E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479E7C57-1DF3-4DAE-BB0F-781EA4611E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

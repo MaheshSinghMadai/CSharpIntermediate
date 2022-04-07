@@ -21,7 +21,6 @@ namespace _3DSurfaceArea
                 {
                     result += (A[i][j]) * 4;
 
-
                     if (i != 0)
                     {
                         result -= 2 * Math.Min(A[i - 1][j], A[i][j]);
